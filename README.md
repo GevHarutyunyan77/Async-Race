@@ -1,8 +1,8 @@
 # Async Race
 
-**Score: 390 / 400** (self-assessment — deployment link pending)
+**Score: 400 / 400** (self-assessment)
 
-**Deployment:** _Add your deployed URL here after publishing to GitHub Pages, Netlify, or Vercel_
+**Deployment:** https://gevharutyunyan77.github.io/Async-Race/
 
 ## About
 
@@ -66,18 +66,18 @@ src/
 
 ---
 
-## Checklist 390/400 pts
+## Checklist 400/400 pts
 
 ### UI Deployment
 
-- [ ] **Deployment Platform** — Deploy and add link above
+- [x] **Deployment Platform** — GitHub Pages
 
 ### Requirements to Commits and Repository
 
 - [x] **Commit guidelines compliance**
 - [x] **Checklist included in README.md**
 - [x] **Score calculation**
-- [ ] **UI Deployment link in README.md**
+- [x] **UI Deployment link in README.md**
 
 ### Basic Structure (80 points)
 
